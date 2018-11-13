@@ -165,6 +165,11 @@ footer .line-contact-info p {
     max-width: 305px;
 }
 
+footer .line-contact-info p span {
+    color: #f48146;
+    background: #FFF;
+}
+
 footer .social-icon i {
     width: 40px;
     height: 40px;
